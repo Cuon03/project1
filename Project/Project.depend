@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1651987155 source:e:\code\project\main.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<iomanip>
+
+1651987772 source:e:\code\project\hamcon.cpp
+	<iostream>
+	<windows.h>
+	<graphics.h>
+	<iomanip>
+
